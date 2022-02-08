@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+button, input { font: inherit }
+
+html { 
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    color: whitesmoke;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #333;
+    max-width: 800px;
+    margin: auto;
+}
