@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 * {
     box-sizing: border-box;
@@ -8,7 +8,7 @@ button, input { font: inherit }
 
 html { 
     font-family: 'Roboto', sans-serif;
-    font-size: 22px;
+    font-size: 1.4rem;
     color: whitesmoke;
 }
 
